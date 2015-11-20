@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    void SampleFunction2(){
+
+    }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
