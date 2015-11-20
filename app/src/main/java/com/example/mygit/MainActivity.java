@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     void display3(){
-// changes..
+// changes.. testing
     }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
