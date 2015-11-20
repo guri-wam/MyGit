@@ -21,6 +21,10 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
+    void SampleTest(){
+
+    }
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
